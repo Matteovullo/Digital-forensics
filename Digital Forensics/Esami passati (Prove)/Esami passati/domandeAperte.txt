@@ -1,0 +1,11 @@
+domande aperte:
+
+• Mobile Forensics e Disk Forensics: caratteristiche di base e differenze  nelle modalità operative di acquisizione e  di analisi
+• Elencare presupposti e fattispecie tipiche degli accertamenti da eseguirsi in modalità ripetibile e irripetibile
+• Elencare le tipiche fasi della Digital Forensics, rapportandole poi ad un possibile caso di studio che coinvolga contenuti multimediali.
+         - la digital forensics è la disciplina che si occupa delle attività d’indagine e consulenze informatiche su dispositivi cellulari utilizzando le tecniche seguente: Identificazione, acquisizione, analisi, valutazione, presentazione.
+               - Identificazione: Sta nel rilevare cos’è effettivamente utile per l’indagine
+• Modalità di acquisizione e certificazione di un contenuto diffamatorio presente sulla piattaforma Facebook
+• Mobile Forensics: caratteristiche di base (es. ripetibile o non ripetibile), differenze tra acquisizione logica e fisica
+• Elencare presupposti e fattispecie tipiche degli accertamenti da eseguirsi in modalità ripetibile e irripetibile
+• Elencare le tipiche fasi della Digital Forensics, rapportandole poi ad un possibile caso di studio che coinvolga contenuti multimediali.

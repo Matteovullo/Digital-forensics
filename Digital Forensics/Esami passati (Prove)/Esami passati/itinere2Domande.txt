@@ -1,0 +1,39 @@
+1) Per la rimozione di rumore periodico quale filtro è più indicato: 
+
+Applicare un filtro nel dominio della frequenza
+
+2) Le immagini affette da Motion Blur possono essere migliorate: 
+
+Solo attraverso l uso di particolari filtri di deconvoluzione
+
+3) Il numero di gradi di liberta di una trasformazione prospettica è: 
+
+8
+
+4) A cosa è dovuto il problema dell"effetto blocking" su immagini/video?
+
+Al fattore di compressione
+
+5) I DeepFake sono basati su modelli di Machine Learning che fanno uso di:
+
+Architettura GAN
+
+6) Dati EXIF per l' autenticazione di immagini digitali
+
+Sono facilmente modificabili
+
+7) Metodologie di contrasto ai Bias Cognitivi in ambito forense sulle immagini?
+
+Decontestualizzazione dei quesiti agli operatori con il supporto dei supervisori
+
+8) Robustezza dell' algoritmo LSB spaziale di Steganografia a tecniche di codifica lossy
+
+Nulla
+
+9) Gestione delle misure antropometriche ed errori di misura
+
+Utilizzo di software certificati
+
+10) Modalità di Acquisizione di filmati video da sistemi DVR senza ricodifica e senza la disponibilità di un decoder
+
+Acquisizione a video (su PC da scheda grafica) senza ricodifica
